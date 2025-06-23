@@ -19,3 +19,5 @@ Users can create, edit, and delete notes dirdetly in the browser. The notes are 
 - CSS3 (with gradients and styling)
 - Vanilla JavaScript
 - `localStorage` for data persistence
+
+Created by - Sachin Kushwaha
